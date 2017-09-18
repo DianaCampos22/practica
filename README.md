@@ -1,5 +1,3 @@
 # practica
-<?php
-echo Tecnologías Innovadoras
-echo Practica Github <br />
-<?
+# Tecnologías Innovadoras
+# Practica Github
